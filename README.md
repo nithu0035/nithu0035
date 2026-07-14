@@ -1,24 +1,15 @@
-# Hi 👋, I'm Gudipatoju Nitesh
+# Gudipatoju Nitesh
 
 ### AI/ML Engineer | GenAI Developer | Python Backend Developer
 
+Building production-ready AI applications with a focus on Generative AI, Machine Learning, and scalable backend systems.
+
 📍 Hyderabad, India
 
-## 🚀 About Me
-- 🎓 B.Tech in AI & ML
-- 🤖 Building AI, GenAI & Backend Applications
-- 💻 Python • FastAPI • LangChain • RAG • Docker
-- 🌱 Currently learning AI Agents & MLOps
-- 💼 Open to AI/ML & Python Developer roles
+🌐 Portfolio
+https://nithu0035.github.io/Portfolio-Website
 
-## 🛠️ Tech Stack
-Python • FastAPI • LangChain • ChromaDB • TensorFlow • PyTorch • Docker • SQL • Git
+💼 LinkedIn
+https://linkedin.com/in/nitesh-gudipatoju
 
-## 📫 Connect
 📧 nithu00035@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/nitesh-gudipatoju
-
-🌐 Portfolio: https://nithu0035.github.io/Portfolio-Website/
-
-⭐ Thanks for visiting my profile!
