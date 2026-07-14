@@ -17,8 +17,8 @@ Python • FastAPI • LangChain • ChromaDB • TensorFlow • PyTorch • Doc
 ## 📫 Connect
 📧 nithu00035@gmail.com
 
-💼 LinkedIn: linkedin.com/in/nitesh-gudipatoju
+💼 LinkedIn: https://linkedin.com/in/nitesh-gudipatoju
 
-🌐 Portfolio: nithu0035.github.io/Portfolio-Website
+🌐 Portfolio: https://nithu0035.github.io/Portfolio-Website/
 
 ⭐ Thanks for visiting my profile!
